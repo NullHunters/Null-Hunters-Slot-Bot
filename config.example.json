@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "owner": [123456789012345678],
+  "prefix": "$",
+  "slot_category": "YOUR_SLOT_CATEGORY_ID"
+}
